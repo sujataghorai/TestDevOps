@@ -4,3 +4,4 @@ new
 hello
 test
 how are you
+test
